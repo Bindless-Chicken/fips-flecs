@@ -23,7 +23,6 @@ fips_include_directories(modules)
 
 fips_ide_group(Modules)
 fips_add_subdirectory(modules/flecs)
-fips_add_subdirectory(modules/flecs-admin)
 
 fips_finish()
 
